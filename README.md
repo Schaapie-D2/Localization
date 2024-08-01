@@ -1,2 +1,2 @@
 # Localization
-Implement localization with a excel document.
+Implement localization with an Excel document.
