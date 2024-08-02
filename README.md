@@ -37,8 +37,8 @@ namespace Localization_Test
 ```
 
 # Supported languages
-| Language | Supported |
-|----------|-----------|
+| Language | Supported | Planed |
+|----------|-----------|--------|
 |English | Yes |
 |Spanish | Yes |
 |French | Yes |
@@ -123,3 +123,4 @@ namespace Localization_Test
 |Serbian Cyrillic | Yes |
 |Montenegrin | Yes |
 |Bosnian | Yes |
+|Custom | No | Yes |
