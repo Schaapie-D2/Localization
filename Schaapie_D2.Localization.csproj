@@ -4,9 +4,9 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
-	    <Authors>Schaapie_D2</Authors>
-	    <Version>1.0.0</Version>
-	    <Copyright>2024 Schaapie_D2</Copyright>
+	<Authors>Schaapie_D2</Authors>
+	<Version>1.0.0</Version>
+	<Copyright>2024 Schaapie_D2</Copyright>
     </PropertyGroup>
 
     <ItemGroup>
