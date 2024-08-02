@@ -35,3 +35,91 @@ namespace Localization_Test
 }
 
 ```
+
+# Supported languages
+| Language | Supported |
+|----------|-----------|
+|English | Yes |
+|Spanish | Yes |
+|French | Yes |
+|German | Yes |
+|Italian | Yes |
+|Portuguese | Yes |
+|Russian | Yes |
+|Chinese Simplified | Yes |
+|Chinese Traditional | Yes |
+|Japanese | Yes |
+|Korean | Yes |
+|Dutch | Yes |
+|Arabic | Yes |
+|Hindi | Yes |
+|Swedish | Yes |
+|Norwegian | Yes |
+|Danish | Yes |
+|Finnish | Yes |
+|Greek | Yes |
+|Turkish | Yes |
+|Polish | Yes |
+|Czech | Yes |
+|Hungarian | Yes |
+|Romanian | Yes |
+|Thai | Yes |
+|Vietnamese | Yes |
+|Hebrew | Yes |
+|Indonesian | Yes |
+|Malay | Yes |
+|Bengali | Yes |
+|Persian | Yes |
+|Ukrainian | Yes |
+|Bulgarian | Yes |
+|Croatian | Yes |
+|Serbian | Yes |
+|Slovak | Yes |
+|Lithuanian | Yes |
+|Latvian | Yes |
+|Estonian | Yes |
+|Filipino | Yes |
+|Swahili | Yes |
+|Afrikaans | Yes |
+|Sinhala | Yes |
+|Tamil | Yes |
+|Telugu | Yes |
+|Kannada | Yes |
+|Urdu | Yes |
+|Nepali | Yes |
+|Pashto | Yes |
+|Kurdish | Yes |
+|Azerbaijani | Yes |
+|Mongolian | Yes |
+|Armenian | Yes |
+|Georgian | Yes |
+|Belarusian | Yes |
+|Kazakh | Yes |
+|Uzbek | Yes |
+|Turkmen | Yes |
+|Kyrgyz | Yes |
+|Tajik | Yes |
+|Lao | Yes |
+|Burmese | Yes |
+|Khmer | Yes |
+|Amharic | Yes |
+|Tigrinya | Yes |
+|Somali | Yes |
+|Yiddish | Yes |
+|HaitianCreole | Yes |
+|Luxembourgish | Yes |
+|Maltese | Yes |
+|Quechua | Yes |
+|Guarani | Yes |
+|Xhosa | Yes |
+|Zulu | Yes |
+|Welsh | Yes |
+|Irish | Yes |
+|Scottish Gaelic | Yes |
+|Basque | Yes |
+|Catalan | Yes |
+|Galician | Yes |
+|Serbian Latin | Yes |
+|Serbian Cyrillic | Yes |
+|Montenegrin | Yes |
+|Bosnian | Yes |
