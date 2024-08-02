@@ -123,4 +123,4 @@ namespace Localization_Test
 |Serbian Cyrillic | Yes |
 |Montenegrin | Yes |
 |Bosnian | Yes |
-|Custom | No | Yes |
+|Custom Language | No | Yes |
