@@ -37,7 +37,7 @@ namespace Localization_Test
 ```
 
 # Supported languages
-| Language | Supported | Planed |
+| Language | Supported | Planned |
 |----------|-----------|--------|
 |English | Yes |
 |Spanish | Yes |
